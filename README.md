@@ -49,7 +49,7 @@ main 클래스에서 입력 받은 기호를 식별하고 일치하는 연산의
 
   * ArrayList<>를 사용하여 연산된 값은 저장하였고 remove()를 통해서 첫번째에 저장된 값을 삭제합니다.
 
-    private ArrayList<Double> answer = new ArrayList<>();
+     private ArrayList<Double> answer = new ArrayList<>();
 
   ---
 
